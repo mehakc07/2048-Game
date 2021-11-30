@@ -1,0 +1,20 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}
+.grid div{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(rgb(217, 217, 230),rgb(25, 27, 145));
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.score-container{
+   font-weight: bold;
+   font-size: 58px;
+}
